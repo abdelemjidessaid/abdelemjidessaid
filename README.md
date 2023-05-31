@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h1>Abdelemjid Essaid</h1>
-	<p>💻️Software Developer💻️</p>
+	<p>💻️ Software Developer 💻️</p>
 </div>
 
 # 💫 About Me:
